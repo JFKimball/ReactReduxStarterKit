@@ -9,7 +9,6 @@ import TestUtils from 'react-dom/test-utils';
 
 global.cExpect = chai.expect
 global.$ = $
-renderComponent = renderComponent
 
 // function genRenderers(options) {
 // 	let { componentClass, defaultProps } = opts;

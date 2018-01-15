@@ -3,7 +3,7 @@ import App from '../../src/components/App';
 
 describe('App', () => {
 
-	let component, jqid
+	let component
 
 	beforeEach(() => { component = renderComponent(App) })
 
